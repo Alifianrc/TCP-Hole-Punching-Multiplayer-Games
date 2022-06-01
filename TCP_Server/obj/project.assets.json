@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "ServerClientLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ServerClientLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServerClientLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ServerClientLib/1.0.0": {
+      "type": "project",
+      "path": "../ServerClientLib/ServerClientLib.csproj",
+      "msbuildProject": "../ServerClientLib/ServerClientLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "ServerClientLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\PAVILION GAMING\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Unity_Project\\TCP-Hole-Punching-Multiplayer-Games\\ServerClientLib\\ServerClientLib.csproj": {
+              "projectPath": "D:\\Unity_Project\\TCP-Hole-Punching-Multiplayer-Games\\ServerClientLib\\ServerClientLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

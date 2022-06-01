@@ -206,3 +206,51 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &918928279
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 918928280}
+  - component: {fileID: 918928281}
+  m_Layer: 0
+  m_Name: NetworkClient
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &918928280
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 918928279}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &918928281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 918928279}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99462b907fe5130449008fc34af8e457, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_port: 1001
+  m_ipAddressStr: 127.0.0.1
+  m_PublicKeyStr: <?xml version="1.0" encoding="utf-16"?> <RSAParameters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">   <Exponent>AQAB</Exponent>   <Modulus>rrtarRkyPN6J0SgRzfYOyarQOp/l7xFg64yFZqMay6dMqCOep6n22ZaGr374sMHghfT+mPUtfKOhaoqWTqTgy4a3yFZROyEAixJ8ck6EFaPo7ZaEJL/8+2QruTzTvhIh65pGqfdAOTrSOpZyFLTmXQiN+YGAVn2t/agk0Ho9UeGJfFTlpciRXguLmsijEkiWiy+hNGcyQDEuIzMXqIoiypjEt96bP6ZqknbXhDCp2MhUryNE71rf0gW/KRKMFYtry69ywLR4TuJwCfFKNMhKdzgZk7fuvabDT2fg2PcMb1BYfyyphE5/bDOu/ruOIBNRkofBbQA9exFlKeFtZ5p74Q==</Modulus>
+    </RSAParameters>

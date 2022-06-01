@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TCP_Server/1.0.0": {
+        "dependencies": {
+          "ServerClientLib": "1.0.0"
+        },
+        "runtime": {
+          "TCP_Server.dll": {}
+        }
+      },
+      "ServerClientLib/1.0.0": {
+        "runtime": {
+          "ServerClientLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCP_Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerClientLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

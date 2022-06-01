@@ -1,0 +1,12 @@
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\bin\Debug\net5.0\ServerClientLib.deps.json
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\bin\Debug\net5.0\ServerClientLib.dll
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\bin\Debug\net5.0\ref\ServerClientLib.dll
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\bin\Debug\net5.0\ServerClientLib.pdb
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\obj\Debug\net5.0\ServerClientLib.csproj.AssemblyReference.cache
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\obj\Debug\net5.0\ServerClientLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\obj\Debug\net5.0\ServerClientLib.AssemblyInfoInputs.cache
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\obj\Debug\net5.0\ServerClientLib.AssemblyInfo.cs
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\obj\Debug\net5.0\ServerClientLib.csproj.CoreCompileInputs.cache
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\obj\Debug\net5.0\ServerClientLib.dll
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\obj\Debug\net5.0\ref\ServerClientLib.dll
+D:\Unity_Project\TCP-Hole-Punching-Multiplayer-Games\ServerClientLib\obj\Debug\net5.0\ServerClientLib.pdb
